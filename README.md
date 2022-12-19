@@ -1,4 +1,7 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)## *data analyst*, 일머리 있는 데이터 분석가   
+## Wave <a id="wave">
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=WAVE)
+ 
+## *data analyst*, 일머리 있는 데이터 분석가   
 
 * **경북대 빅데이터 분석가 양성과정 2기** <I>2022.06.23 ~ 2022.12.14</I>   
 
