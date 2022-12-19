@@ -1,5 +1,5 @@
 ## <a id="data analyst">
-![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=data analyst, 일머리 있는 데이터 분석가)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&text=dataanalyst)
  
 ## *data analyst*, 일머리 있는 데이터 분석가   
 
